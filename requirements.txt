@@ -1,0 +1,2 @@
+# No external dependencies required for the calculator
+# This file is created for Azure App Service compatibility
